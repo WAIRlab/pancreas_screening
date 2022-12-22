@@ -25,5 +25,3 @@ radiomics_seg_result.py —— 准备radiomics 结果
 batchprocessing.py —— 影像组学获取组学结果的过程
 segmentation_Radiomics.ipynb ——准备组学模型
 README.md
-# pancreas_screening
-# pancreas_screening
